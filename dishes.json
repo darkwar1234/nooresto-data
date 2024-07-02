@@ -1,7 +1,1 @@
-[
-  {"id":"9418cf76-60f5-47f0-b117-f4f170c9395f","img":"https://i.ibb.co/4K3Wfyy/blob.png","name":"12345","price":32,"description":null,"category":"завтраки"},
-  {"id":"345d809c-7a91-4243-9dc5-9205a0f3eb93","img":"https://i.ibb.co/0qXM9wm/blob.png","name":"2","price":100,"description":null,"category":"основное меню"},
-  {"id":"71ef91de-8f70-485c-a090-b9d400491ad6","img":null,"name":"Айс латте x1","price":100,"description":"Молоко, лед, карамельный сироп","category":"бар"},
-  {"id":"71ef91de-8f70-485c-a090-b9d400491ad6","img":null,"name":"Айс латте x2","price":200,"description":"Молоко, лед, карамельный сироп x2","category":"бар"},
-  {"id":"71ef91de-8f70-485c-a090-b9d400491ad6","img":null,"name":"Айс латте x3","price":300,"description":"Молоко, лед, карамельный сироп x3","category":"бар"}
-]
+[{"id":"9418cf76-60f5-47f0-b117-f4f170c9395f","img":"https://i.ibb.co/4K3Wfyy/blob.png","name":"12345","price":32,"description":null,"category":"завтраки"},{"id":"345d809c-7a91-4243-9dc5-9205a0f3eb93","img":"https://i.ibb.co/0qXM9wm/blob.png","name":"2","price":100,"description":null,"category":"основное меню"},{"id":"71ef91de-8f70-485c-a090-b9d400491ad6","img":null,"name":"Айс латте x2","price":200,"description":"Молоко, лед, карамельный сироп x2","category":"бар"},{"id":"71ef91de-8f70-485c-a090-b9d400491ad6","img":null,"name":"Айс латте x3","price":300,"description":"Молоко, лед, карамельный сироп x3","category":"бар"}]
